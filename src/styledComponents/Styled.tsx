@@ -10,7 +10,7 @@ interface GameBoardProps {
 const GameBoardStyle = styled("div")<GameBoardProps>(
     {
       "width": "600px",
-      "height": "600px",
+      "height": "606px",
       "border": "1px solid black",
       "display": "flex",
     "backgroundColor": "white",
